@@ -1,2 +1,4 @@
 # ClipCropping
-Official Code for XXX(Submitted to XXX)
+Official Code for Aesthetic Image Cropping Meets VLP:  Enhancing Good while Reducing Bad.
+
+Code will be available soon.
